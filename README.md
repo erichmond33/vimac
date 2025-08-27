@@ -1,6 +1,8 @@
-# Announcement
+# Vimac Lives
 
-Vimac is now [Homerow](https://homerow.app). Homerow is a refined, sleeker, more performant successor of Vimac, incorporating lessons learned from it's predecessor.
+Vimac was created, then later sold and converted to [Homerow](https://homerow.app); however, I – Eli – still love the orginal (and free) application which was abandonded and still use it to this day.
+
+I have recreated the orginal Vimac landing page and provided new links to download the orginal Vimac software :)
 
 # Vimac - Productive macOS keyboard-driven navigation
 
