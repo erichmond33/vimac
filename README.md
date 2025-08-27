@@ -12,9 +12,9 @@ Vimac is heavily inspired by [Vimium](https://github.com/philc/vimium/).
 
 ## Getting Started
 
-You can download Vimac [here](https://vimacapp.com). Unzip the file and move `Vimac.app` to `Applications/`.
+You can download Vimac [here](https://elir.net/vimac). Unzip the file and move `Vimac.app` to `Applications/`.
 
-You can refer to the manual [here](https://vimacapp.com/manual).
+You can refer to the manual [here]([https://vimacapp.com/manual](https://github.com/erichmond33/vimac/blob/master/docs/manual.md)).
 
 ## How does Vimac work?
 
