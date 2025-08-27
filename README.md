@@ -1,4 +1,4 @@
-# Vimac Lives
+# Vimac Lives!!!
 
 Vimac was created, then later sold and converted to [Homerow](https://homerow.app); however, I – Eli – still love the orginal (and free) application which was abandonded and still use it to this day.
 
